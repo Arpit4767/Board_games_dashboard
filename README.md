@@ -1,4 +1,4 @@
-Dataset Description
+**Dataset Description**
 The dataset reveals several noteworthy details, which are visualized on the dashboard:
 
 Total Games: The dataset includes data for 19,976 unique games, showcasing a vast array of titles in terms of complexity, mechanics, and appeal.
